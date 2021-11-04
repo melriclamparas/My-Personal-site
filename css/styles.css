@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: white;
+  background-color: #8CA1A5;
+}
+.top-container {
+  background: #1F1D36;
+  padding: 10px 0 10px 0;
+  z-index: -1;
+
+}
+
+.webpage-text {
+  margin-left: 40%;
+
+
+
+}
+
+.middle-container {
+  background-color: #3F3351;
+  top: 10px;
+
+
+}
+
+.melric-image {
+  width: 400px;
+  height: 400px;
+  margin-top: 5%;
+  margin-left: 40%;
+  position: relative;
+  z-index: 2;
+
+
+}
+
+.title-text {
+  color: white;
+  position: absolute;
+  top: 25%;
+  left: 20%;
+  text-align: left;
+  width: 300px;
+  padding: 10px;
+
+
+
+}
+
+.intro-text {
+  line-height: 2
+}
+
+.header {
+  text-decoration: none;
+  font-family: 'Varela Round', sans-serif;
+  padding-left: 10px;
+}
+
+a:hover {
+  color: white;
+  padding-left: 10px;
+  z-index: 2;
+
+}
+
+.intro-text {
+  font-family: 'Comfortaa', cursive;
+  font-size: 12px;
+}
+
+h1 {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 35px;
+}
+
+h3 {
+  font-family: 'Source Serif Pro', serif;
+}
+
+.new-image {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  right: 20%;
+  bottom: 35%;
+  z-index: 1;
+}
+
+.new-image1 {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  right: 10%;
+  bottom: 35%;
+}
+
+.new-image2 {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  right: 5%;
+  bottom: 20%;
+}
+
+.new-image3 {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  right: 1%;
+  bottom: 15%;
+}
+
+.new-image4 {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  right: 30%;
+  bottom: 15%;
+}
+
+#copyright {
+  font-family: 'Noto Sans', sans-serif;
+  margin-top: 90px;
+  font-size: 12px;
+}
+
+.footlink {
+  position: relative;
+  top: 50px;
+  padding-right: 20px;
+  text-decoration: none;
+  font-family: 'Varela Round', sans-serif;
+}
